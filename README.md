@@ -1,1 +1,4 @@
-# study-coding-test-with-python
+# 코딩 테스트 문제 해답
+제가 풀어본 코딩 테스트 문제의 해답을 올리는 저장소입니다. 혹시 틀린 내용이 있으면 연락주세요.
+
+제 해설은 이 블로그(https://engineeringcode.tistory.com/)에 게시됩니다. 
