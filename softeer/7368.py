@@ -1,5 +1,4 @@
 import sys
-import math
 
 """
 연습문제 > 위험한 효도
